@@ -1,5 +1,4 @@
-//Dhaddammm Robotics //
-// 1 is front, 2 is right, 3 is left
+
 
 const int buzzer = A5;
 const int trigPin1 = 6;
