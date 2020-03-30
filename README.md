@@ -1,5 +1,3 @@
-# Mini-MATAR
+# Summary of what this repository contains
 
-This repository contains the Arduino code for Mini MATAR.
-
-For mini MATAR's obstacle avoidance, a 'bang bang' controller was utilised.
+This repository contains the 
