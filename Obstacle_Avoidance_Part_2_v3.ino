@@ -1,5 +1,3 @@
-
-
 const int buzzer = A5;
 const int trigPin1 = 6;
 const int echoPin1 = 7;
